@@ -67,7 +67,8 @@ Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse) and r
 Alternatively, you can run the game from the command line using Gradle. In the project root directory, execute the following command:
 ```
 ./gradlew desktop:run
-```
+```![uml](https://github.com/siddhant21204/AP_Project/assets/103895696/b3e364b0-e60d-491c-82fc-d94d01159bf8)
+
 4. Play the game and enjoy the TankStars clone!
 
 
